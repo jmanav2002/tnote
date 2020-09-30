@@ -58,7 +58,7 @@ Watch a live demo of it working here
 - Ability to add and remove tags for each note.
 - Adds timestamp for each note which has been added.
 - Written in uncomplicated python.
-
+- And lastly your grannny would love it.
 Need I say more?
 
 ***
